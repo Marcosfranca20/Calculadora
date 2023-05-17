@@ -1,0 +1,74 @@
+.titulo{
+  font-size: 60px;
+	color:yellow;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif
+}
+
+.pergunta{
+	font-size: 40px;
+	color:white;
+	text-align: center;
+}
+
+#resposta{
+	font-size: 40px;
+	color:white;
+	text-align: center;
+}
+.background{
+	background-color: black
+
+}
+.operação{
+	font-size: 35px;
+	color: white;
+	text-align: center;
+	text-decoration-color:currentColor;
+}
+.imgopera{
+	display: block;
+    margin: 0 auto;
+    margin-bottom: -30px;
+    border-radius: 10%;
+    width: 25%
+    
+}
+#numero1{
+	font-size: 25px;
+	color:black;
+	text-align: right;
+
+}
+#numero2{
+	font-size: 25px;
+	color:black;
+	text-align: right;
+}
+.coloca{
+	align-items: center;
+    display: flex;
+    flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.botãoposi{
+	align-items: center;
+	display: flex;
+    flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.botãoatri{
+	font-size: 25px;
+
+}
+
+
+
+
+
+
+
+
+
